@@ -13,7 +13,9 @@ Different tests created while learning Python-Selenium using the-internt.herokua
 3. Run a test: `python tests/test_login.py`
 
 ## What's Being Tested
-- Negative login (invalid credentials)
+- Negative logins (invalid credentials)
+- Login and then logout
+- Waiting for a loading bar
 
 ## Notes
 More tests to be added.
